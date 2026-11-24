@@ -1,0 +1,61 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta charset="utf-8">
+<title>E-Commerce Sales Performance Dashboard - Project Report</title>
+<style>
+    body { font-family: 'Calibri', 'Segoe UI', Arial, sans-serif; line-height: 1.6; color: #222; padding: 40px; }
+    h1 { color: #0369a1; font-size: 26pt; border-bottom: 2px solid #0369a1; padding-bottom: 8px; margin-bottom: 12px; }
+    h2 { color: #0f172a; font-size: 18pt; margin-top: 24pt; border-bottom: 1px solid #cbd5e1; padding-bottom: 4px; }
+    h3 { color: #0284c7; font-size: 14pt; margin-top: 14pt; }
+    p, li { font-size: 11pt; }
+    table { border-collapse: collapse; width: 100%; margin-top: 14px; margin-bottom: 18px; }
+    th { background-color: #0369a1; color: #ffffff; text-align: left; padding: 8px 12px; font-size: 10.5pt; }
+    td { border: 1px solid #cbd5e1; padding: 8px 12px; font-size: 10pt; }
+    tr:nth-child(even) { background-color: #f8fafc; }
+    .callout { background-color: #f0fdf4; border-left: 4px solid #16a34a; padding: 12px 16px; margin: 16px 0; }
+    .warning-box { background-color: #fffbeb; border-left: 4px solid #d97706; padding: 12px 16px; margin: 16px 0; }
+    .meta-box { background-color: #f8fafc; border: 1px solid #e2e8f0; padding: 16px; border-radius: 6px; margin-bottom: 24px; }
+</style>
+</head>
+<body>
+<h1>E-Commerce Sales Performance Analytics</h1>
+<p style="font-size: 14pt; color: #64748b; margin-top: -6px;">Capstone Project Report — Microsoft Power BI Business Intelligence Solution</p>
+<div class="meta-box">
+    <strong>Course & Institute:</strong> Anudip Foundation — Data Analytics & BI Program<br>
+    <strong>Project Title:</strong> End-to-End E-Commerce & Retail Sales Performance Dashboard<br>
+    <strong>Primary Tool:</strong> Microsoft Power BI Desktop (Power Query, DAX, Star Schema)<br>
+    <strong>Dataset Size:</strong> 6,000 Transactional Records (2022 to 2024)<br>
+    <strong>Author:</strong> Harish Mallipeddi — Data Analytics Trainee
+</div>
+<h2>1. Executive Summary</h2>
+<p>This project establishes a comprehensive business intelligence solution designed for executive leadership, regional managers, and marketing strategists in the retail e-commerce domain. By consolidating 6,000 multi-year sales records across 29 Tier-1 and Tier-2 Indian cities, the interactive Power BI dashboard provides immediate visibility into top-line revenue, profit margins, geographic performance, customer purchasing trends, and logistics fulfillment turnaround times.</p>
+<h2>2. Business Problem Statement</h2>
+<ul>
+    <li><strong>Disparate Transaction Logs:</strong> Large volume of raw CSV records prevented quick performance tracking.</li>
+    <li><strong>Uncontrolled Margin Erosion:</strong> Heavy promotional discounts in furniture categories led to hidden negative profits.</li>
+    <li><strong>Lack of Customer Segmentation:</strong> Inability to isolate behaviors between Consumer, Corporate, and Home Office clients.</li>
+    <li><strong>Geographic Blindspots:</strong> Inability to visualize state-level revenue distribution against shipping turnaround SLAs.</li>
+</ul>
+<h2>3. Key Business Insights & Strategic Recommendations</h2>
+<div class="callout">
+    <strong>Insight 1: Massive Q4 Festive Spike</strong><br>
+    Monthly revenue exhibits a consistent 35% surge between October and December across all 3 years due to Diwali and holiday festive buying. 
+    <em>Action:</em> Procurement teams must pre-order stock 6 weeks in advance to mitigate stockouts.
+</div>
+<div class="warning-box">
+    <strong>Insight 2: Furniture Discount Margin Trap</strong><br>
+    While Technology generated strong margins (22%), Furniture items (Tables, Bookcases) sustained losses when discounts exceeded 25%.
+    <em>Action:</em> Implement a 20% discount ceiling on furniture lines.
+</div>
+<div class="callout">
+    <strong>Insight 3: UPI Dominance in E-Commerce</strong><br>
+    Over 40% of all customer orders were settled via UPI / Digital Wallets, followed by Credit Cards at 28%.
+    <em>Action:</em> Optimize checkout flows for mobile UPI payments and offer 1-click UPI checkout.
+</div>
+<div class="callout">
+    <strong>Insight 4: Regional Concentration</strong><br>
+    West and South regions (Maharashtra, Karnataka, Tamil Nadu, Telangana) generate ~65% of all national revenue.
+    <em>Action:</em> Establish primary fulfillment distribution hubs in Mumbai and Bengaluru to reduce shipping times below 3 days.
+</div>
+</body>
+</html>
