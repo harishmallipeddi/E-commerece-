@@ -37,7 +37,6 @@ Leadership and regional sales heads needed real-time visibility into multi-year 
 ├── FINAL_PROJECT_REPORT.md                # In-depth Capstone Project Report
 ├── PROJECT_DOCUMENTATION.doc              # Formal Word Document for Submission
 ├── PROJECT_PRESENTATION_SLIDES.html       # 10-Slide Interactive Presentation Deck
-├── INTERVIEW_QUESTIONS_AND_ANSWERS.md     # 15 Power BI Technical & Scenario Interview Q&As
 └── README.md                              # Project Documentation Homepage
 ```
 
